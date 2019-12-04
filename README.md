@@ -1,8 +1,13 @@
 # Google Keep Clone with Vue and Firebase
 
+[![Inline docs](http://inch-ci.org/github/CrazyLilOsama/google-keep-vue-firebase.svg?branch=master)](http://inch-ci.org/github/CrazyLilOsama/google-keep-vue-firebase)
+
+[![Build Status](https://travis-ci.org/CrazyLilOsama/google-keep-vue-firebase.png?branch=master)](https://travis-ci.org/CrazyLilOsama/google-keep-vue-firebase)
+
+[![HitCount](http://hits.dwyl.com/CrazyLilOsama/google-keep-vue-firebase.svg)](http://hits.dwyl.com/CrazyLilOsama/google-keep-vue-firebase)
+
 Based on this [Scotch.io tutorial](https://scotch.io/tutorials/building-a-google-keep-clone-with-vue-and-firebase-pt-1)
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/a6d6a581-2a28-4361-8019-bf49a8725d10/deploy-status)](https://app.netlify.com/sites/keep-vue/deploys)
 
 ## Getting Started
 
